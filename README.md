@@ -2,7 +2,7 @@
 
 那天，在做 APCS 的觀念題，然後被那個 for 迴圈搞到...想打人。總之，乾脆一不做二不休，來用 C++ 做個專案吧。
 
-上網查了一下，做個小遊戲好像挺有趣的，就決定做個 2048 吧。
+上網查了一下，做個小遊戲好像挺有趣的，就決定做 2048 了。
 
 參考資料：[https://www.796t.com/content/1545170413.html#google_vignette](https://www.796t.com/content/1545170413.html#google_vignette)
 
